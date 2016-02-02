@@ -1,0 +1,51 @@
+body {
+	margin-left: 80px;
+	margin-right: 80px;
+	margin-top: 80px;
+	margin-bottom: 80px;
+	background-color:#FFF0F5;
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+img {margin-right: 0px;
+	opacity:1;
+	transition: 0.5s ease;
+}
+
+img:hover{
+opacity:0.5;
+transition: 0.5s ease;
+}
+
+
+h1 {
+	font-family: 'Fugaz One', sans-serif;
+	font-size: 400%;
+	line-height: 0px
+}
+
+p {
+	text-align: justify;
+	clear:left;
+	
+}
+
+.tab {
+ margin-left: 40px;
+}
+
+#div1 {
+	float:left;
+	margin-bottom: 30px;
+}
+
+#div2 {
+	width: 365px;
+	height: 120px;
+	float:left;
+	padding-left: 30px;
+	margin-top: 548px;
+	margin-left: 0px;
+	
+}

@@ -1,0 +1,40 @@
+body { 
+	background-color: gray
+	 }
+
+#container {
+	width:600px;
+	height: 768px;
+	background-color:orange;
+	font-family: Helvetica;
+	font-size: 30px;
+	text-align:center;
+	margin:auto;
+}
+
+#artist {
+	width:200px;
+	height:200px;
+	background-color: purple;
+	font-family: Helvetica;
+	font-size: 20px;
+	float:left;
+	}
+
+#sculptor {
+	width:200px;
+	height: 200px;
+	background-color: red;
+	color:white;
+	float:left;
+	
+}
+
+
+#circle {
+	width:200px;
+	height: 200px;
+	background-color: pink;
+	float: left;
+}
+

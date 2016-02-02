@@ -1,0 +1,39 @@
+body {
+	font-family: Georgia, serif;
+	color: #F6F3EB;
+	font-size: 18px;
+	background-color: #505050;
+	margin-left: 80px;
+	margin-right: 80px;
+	text-align: justify;
+	line-height: 160%
+}
+
+h1 {
+	font-family: Helvetica, sans-serif;
+	font-size: 90px;
+	text-align: center;
+	line-height: 115%
+
+}
+
+h3 {
+	font-family: Helvetica, sans-serif;
+	font-size: 40px;
+	text-align: center;
+}
+
+
+ul {
+	list-style-position: inside;
+	font-family: Helvetica;
+	text-align:center;
+	color: pink;
+	font-size: 20px;
+}
+
+
+h5 {
+	text-align:right;
+	letter-spacing: 0.5px
+}
