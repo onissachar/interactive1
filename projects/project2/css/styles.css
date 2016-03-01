@@ -1,0 +1,262 @@
+body {
+	background-color: #004F7B;
+	width: 1440px;
+	height: 5000px;
+}
+
+#pasta {
+	position: absolute;
+	top:0;
+	right:0;
+	z-index: 2;
+}
+
+#plastic {
+	position: absolute;
+	top:-5;
+	right:50;
+	z-index: 0;
+}
+
+#rice {
+	position: absolute;
+	top:40;
+	right: 130;
+	z-index: 1;
+}
+#egg {
+	position: absolute;
+	left: 5;
+	top:35;
+	z-index: 3;
+
+}
+
+#banana {
+	position: absolute;
+	top:250;
+	left: 60;
+}
+
+#bacon {
+	position: absolute;
+	left: 30;
+	top: 45;
+	z-index:4;
+}
+
+#bacon2 {
+	position: absolute;
+	right: -40;
+	top: 450;
+	z-index:5;
+}
+
+#dragonfruit {
+	position: absolute;
+	top:750;
+	left: 100;
+}
+
+#onions {
+	position: absolute;
+	top:980;
+	left: 500;
+	z-index:6;
+}
+
+#peas {
+	position: absolute;
+	top:1138;
+	left: 422;
+}
+
+#peas2 {
+	position: absolute;
+	top:740;
+	left: 85;
+	-ms-transform: rotate(50deg); 
+    -webkit-transform: rotate(50deg); 
+    transform: rotate(50deg);
+}
+
+#plastic2 {
+	position: absolute;
+	top:1000;
+	left: 0;
+}
+
+#tomatoes {
+	position: absolute;
+	top:1300;
+	left: 260;
+}
+
+#pasta2 {
+	position: absolute;
+	top:1390;
+	right: 0;
+	-ms-transform: rotate(170deg); 
+    -webkit-transform: rotate(170deg); 
+    transform: rotate(170deg);
+}
+
+
+
+#plasticrice {
+	position: absolute;
+	top: 1750;
+	left:200;
+}
+
+#watermelon {
+	position: absolute;
+	top: 1900;
+	left:700;
+}
+
+#noodles {
+	position: absolute;
+	top: 1600;
+	left:10;
+}
+
+#lemon {
+	position: absolute;
+	top: 2150;
+	right:20;
+}
+
+#greens {
+	position: absolute;
+	top: 2300;
+	left:230;
+}
+
+#noodles2 {
+	position: absolute;
+	top: 2580;
+	left:740;
+}
+
+#mixed {
+	position: absolute;
+	top: 2600;
+	left:-120;
+}
+
+#plastic4 {
+	position: absolute;
+	top: 2900;
+	right:0;
+
+}
+
+#rice2 {
+	position: absolute;
+	top: 3100;
+	right:20;
+
+}
+
+#egg2 {
+	position: absolute;
+	top: 2950;
+	left:560;
+	-ms-transform: rotate(90deg); 
+    -webkit-transform: rotate(90deg); 
+    transform: rotate(90deg);
+
+}
+
+#carrots {
+	position: absolute;
+	top:4600;
+	left:200;
+
+}
+
+#watermelon2 {
+	position: absolute;
+	top:4620;
+	left:-10;
+	
+}
+
+#pineapple {
+	position: absolute;
+	top:4200;
+	left:410;
+	-ms-transform: rotate(90deg); 
+    -webkit-transform: rotate(90deg); 
+    transform: rotate(90deg);
+	
+}
+
+#dragonfruit2 {
+	position: absolute;
+	top:3940;
+	right:-150;
+	-ms-transform: rotate(-10deg); 
+    -webkit-transform: rotate-10deg); 
+    transform: rotate(-10deg);
+	
+}
+
+#zuchinni2 {
+	position: absolute;
+	top:3370;
+	left:270;
+	
+	
+}
+
+#pasta3 {
+	position: absolute;
+	top:4420;
+	left:60;
+		
+}
+
+
+#nachos {
+	position: absolute;
+	bottom:280;
+	left:-180;
+	-ms-transform: rotate(-10deg); 
+    -webkit-transform: rotate-10deg); 
+    transform: rotate(-10deg);
+	
+}
+
+#nacho {
+	position: absolute;
+	bottom:220;
+	left:980;
+}
+
+#pasta4 {
+	position: absolute;
+	top:760;
+	left:90;
+	-ms-transform: rotate(-90deg); 
+    -webkit-transform: rotate-90deg); 
+    transform: rotate(-90deg);
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

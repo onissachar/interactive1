@@ -1,0 +1,20 @@
+#body {
+	width: 800px;
+	height: 800px;
+	background: white
+}
+
+
+#redsquare {
+	width: 100px;
+	height: 100px;
+	float:left;
+	background:  red;
+}
+
+#whitesquare {
+	width: 100px;
+	height: 100px;
+	float:left;
+	background: white;
+}

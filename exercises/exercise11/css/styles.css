@@ -1,0 +1,54 @@
+#container {
+	width: 960px;
+	margin:0px auto;
+}
+
+#left-column {
+	width: 700px;
+	float: left;
+	background: blue;
+}
+
+#right-column {
+	width: 260px;
+	float: left;
+	background:orange;
+}
+
+@media screen and (max-width:2000px) {
+	#container {
+		width:100%;
+	}
+	#left-column {
+		width:70%; 
+	}
+
+	#right-column {
+		width:30%;
+	}
+	img {
+		width:100%;
+	}
+}
+
+@media screen and (max-width:640px) {
+	#container {
+		width:100%;
+	}
+	#left-column {
+		width:100%; 
+	}
+
+	#right-column {
+		width:100%;
+	}
+	img {
+		width:100%;
+	}
+}
+
+@media screen and (max-width:320px) {
+	#container {
+		width:320px;
+	}
+}

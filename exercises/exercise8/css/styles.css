@@ -1,0 +1,25 @@
+#red {
+	width: 800px;
+	height: 50px;
+	background: red;
+	float:left;
+	margin-bottom: 10px;
+}
+
+#blue {
+	width:800px;
+	height: 10px;
+	background: red;
+	float:left;
+	margin-right: 500px;
+	margin-bottom: 10px;
+}
+
+#green {
+	width:260;
+	height:500;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	background: red;
+	float: left;
+}
