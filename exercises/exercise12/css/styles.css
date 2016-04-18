@@ -1,0 +1,124 @@
+body {
+   background:  #ff8533
+}
+   /* This is the animation code. */
+@-webkit-keyframes example {
+   from { transform: scale(2.0); }
+   to   { transform: scale(1.0); }
+}
+
+
+
+.colorbox2 {
+   -webkit-animation-name: example;
+   -webkit-animation-duration: 1s;
+   -webkit-animation-timing-function: ease; /* ease is the default */
+   -webkit-animation-delay: 1s;             /* 0 is the default */
+   -webkit-animation-iteration-count: 2;    /* 1 is the default */
+   -webkit-animation-direction: alternate;  /* normal is the default */
+   font-family: Helvetica;
+   font-size: 200px;
+   color:#ffccff;
+   margin-left: 200px;
+   margin-top: 100px;
+   height: 100px;
+   width: 300px;
+   animation-iteration-count: infinite;
+}
+
+.colorbox3 {
+   -webkit-animation-name: example;
+   -webkit-animation-duration: 4s;
+   -webkit-animation-timing-function: ease; /* ease is the default */
+   -webkit-animation-delay: 1s;             /* 0 is the default */
+   -webkit-animation-iteration-count: 2;    /* 1 is the default */
+   -webkit-animation-direction: alternate;  /* normal is the default */
+   margin-left: 200px;
+   margin-top: 200px;
+   font-family: Helvetica;
+   font-size: 100px;
+   color:#ffccff;
+   height: 100px;
+   width: 300px;
+
+   animation-iteration-count: infinite;
+}
+
+.colorbox4 {
+   -webkit-animation-name: example;
+   -webkit-animation-duration: 2s;
+   -webkit-animation-timing-function: ease; /* ease is the default */
+   -webkit-animation-delay: 2s;             /* 0 is the default */
+   -webkit-animation-iteration-count: 2;    /* 1 is the default */
+   -webkit-animation-direction: alternate;  /* normal is the default */
+   font-family: Helvetica;
+   font-size: 120px;
+   color:#ffccff;
+   margin-left: 200px;
+   margin-top: 100px;
+   height: 300px;
+   width: 300px;
+   animation-iteration-count: infinite;
+}
+
+
+
+@keyframes slide {
+  0% {
+    left: 0;
+    top: 0;
+  }
+  50% {
+    left: 400px;
+    top: 100px;
+  }
+  100% {
+    left: 800px;
+    top: 0;
+  }
+}
+
+  .background2 {
+  border-radius: 50px;
+  height: 100px;
+  position: relative;
+  min-width: 538px;
+  width: 600px;
+}
+
+.background2:hover .dot2 {
+  animation-name: slide;
+  animation-duration: 2s;
+  animation-timing-function: ease-in-out;
+  animation-delay: .5s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+.dot2 {
+  colour: pink;
+  font-family: helvetica;
+  color: #80d4ff;
+  font-size: 200px;
+  height: 100px;
+  width: 1000px;
+  position: absolute;
+}
+
+@-webkit-keyframes example2 {
+   from { transform: scale(4.0); }
+   to   { transform: scale(1.0); }
+}
+.colorbox {
+   -webkit-animation-name: example2;
+   -webkit-animation-duration: 3s;
+   -webkit-animation-timing-function: ease; /* ease is the default */
+   -webkit-animation-delay: 1s;             /* 0 is the default */
+   -webkit-animation-iteration-count: 2;    /* 1 is the default */
+   -webkit-animation-direction: alternate;  /* normal is the default */
+   margin-left: 200px;
+   margin-top: 200px;
+   height: 300px;
+   width: 300px;
+   background: pink;
+   animation-iteration-count: infinite;

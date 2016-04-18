@@ -1,0 +1,44 @@
+.box1 {
+	color:pink;
+	font-size: 60px;
+	width: 1140px;
+	height: 100px;
+	font-family: helvetica;
+	margin-bottom: 50px;
+	text-align: center;
+	padding: 30px;
+}
+
+.box2 {
+	color:red;
+	font-size: 100px;
+	width: 1140px;
+	height: 100px;
+	font-family: helvetica;
+	margin-top: 40px;
+	text-align: center;
+	padding:30px;
+}
+
+.box3 {
+	color:red;
+	font-size: 90px;
+	width: 1140px;
+	height: 100px;
+	font-family: helvetica;
+	text-align: center;
+	margin-bottom: 40px;
+	padding: 30px;
+}
+
+.box4 {
+	color:pink;
+	font-size: 90px;
+	width: 1140px;
+	height: 100px;
+	font-family: helvetica;
+	text-align: center;
+	margin-bottom: 500px;
+	padding: 30px;
+}
+

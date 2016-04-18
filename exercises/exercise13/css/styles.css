@@ -1,0 +1,52 @@
+body {
+	background: pink;
+}
+
+#container {
+	width: 1200px;
+	height: 4000px;
+	margin: auto;
+	margin-top: 50px;
+}
+
+@font-face {
+	font-family:'Roadgeek 2005 Icons';
+	src: url("Zebrazil.ttf");
+}
+
+@font-face {
+	font-family:'London';
+	src: url("London.ttf");
+}
+
+#main {
+	font-family: Zebrazil;
+	font-size: 40px;
+	color: white;
+	text-align: center;
+
+}
+
+#main2 {
+	font-family: London;
+	font-size: 150px;
+	color: white;
+	text-align: center;
+
+}
+
+#main3 {
+	font-family: Zebrazil;
+	font-size: 40px;
+	color: white;
+	text-align: center;
+
+}
+
+#main4 {
+	font-family: London;
+	font-size: 150px;
+	color: white;
+	text-align: center;
+
+}
