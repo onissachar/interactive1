@@ -1,0 +1,84 @@
+body { 
+font-family: Gill Sans;
+font-size: 16.9px;
+height: 600px;
+color: gray;
+text-align: justify;
+
+}
+
+#fixed {
+	margin-top: -28px;
+margin-left: -5px;
+width: 1284px;
+position: fixed;
+opacity: 50%;
+}
+
+#fixed2 {
+	margin-top: 0px;
+margin-left: -5px;
+width: 1284px;
+position: absolute;
+top:9001px;
+}
+
+.red {
+	color: red;
+}
+.g {
+	color: gray;
+}
+
+#guilty {
+	position: absolute;
+	top:900px;
+	left: -17px;
+
+
+}
+
+#baby {
+	position: absolute;
+	top:1600px;
+	left:-7px;
+
+
+}
+
+#cop {
+	position: absolute;
+	top:2340px;
+
+}
+
+#doctors {
+	position: absolute;
+	top:3400px;
+	left: 5px;
+	
+}
+
+#ben {
+	position: absolute;
+	top:4300px;
+	left: 0px;
+}
+
+#shocker {
+	position: absolute;
+	top:5000px;
+	left: -5px;
+}
+
+#carried {
+	position: absolute;
+	top:5800px;
+	left: 0px;
+}
+
+#bible {
+	position: absolute;
+	top:6600px;
+	left: 0px;
+}

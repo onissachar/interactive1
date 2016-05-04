@@ -1,0 +1,50 @@
+#other {
+margin-left: -10px;
+margin-top: -30px;
+position: fixed;
+}
+
+
+#somewhere {
+	float: left;
+	margin-top: 190px;
+	margin-left: -25px;
+
+}
+
+#scrolly{
+	margin-top: 5px;
+	margin-left:40px;
+	height:680px;
+	width:37900px;
+	overflow-x:scroll;
+	overflow-y:hidden;
+	white-space:nowrap;
+}
+
+#dogvid {
+	margin-left: 40px;
+	margin-top: 230px;
+}
+
+#debate {
+	position:absolute;
+	top: 216px;
+left: 1300px;}
+
+#nomvid {
+		position:absolute;
+
+	top: 236px;
+left: 1830px;}
+
+
+#shiba{
+	position:absolute;
+	top: 206px;
+left: 2600px;}
+
+#shibavid{
+	position:absolute;
+	top: 226px;
+left: 3100px;}

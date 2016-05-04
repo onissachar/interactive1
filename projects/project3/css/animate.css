@@ -750,6 +750,7 @@
 .tada {
   -webkit-animation-name: tada;
   animation-name: tada;
+  display: inline-block;
 }
 
 /* originally authored by Nick Pettit - https://github.com/nickpettit/glide */

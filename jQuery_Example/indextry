@@ -1,0 +1,53 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>jQuery Plugins</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" type="text/css" href="css/styleshome.css">
+    <script src=js/jquery-2.2.3.min.js></script>
+  <script src="js/myscripthome.js"></script>
+  </head>
+  <body>
+
+<section class="intro">
+      <div class="left">
+        <div>
+          <h1>Welcome</h1>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur voluptatem incidunt iste, est, voluptate nobis aliquid a aut. Neque, est vitae ducimus laboriosam adipisci quo tempora voluptatum vel dicta totam.</p>
+          <a href="https://unsplash.com/" target="_blank">Images by Unsplash</a>
+        </div>
+      </div>
+
+      <div class="slider">
+        <ul>
+          <li style="background-image:url(https://images.unsplash.com/photo-1458640904116-093b74971de9?crop=entropy&fit=crop&fm=jpg&h=675&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1375)">
+            <div class="center-y">
+              <h3>Slider Title #1</h3>
+              <a href="#">View Project</a>  
+            </div>
+          </li>
+          <li style="background-image:url(https://images.unsplash.com/photo-1451906278231-17b8ff0a8880?crop=entropy&fit=crop&fm=jpg&h=675&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1375)">
+            <div class="center-y">
+              <h3>Slider Title #2</h3>
+              <a href="#">View Project</a>  
+            </div>
+          </li>
+          <li style="background-image:url(https://images.unsplash.com/photo-1456428199391-a3b1cb5e93ab?crop=entropy&fit=crop&fm=jpg&h=675&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1375)">
+            <div class="center-y">
+              <h3>Slider Title #3</h3>
+              <a href="#">View Project</a>  
+            </div>
+          </li>
+        </ul>
+
+        <ul>
+          <nav>
+            <a href="#"></a>
+            <a href="#"></a>
+            <a href="#"></a>
+          </nav>
+        </ul>
+      </div>
+  </section>

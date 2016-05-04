@@ -1,0 +1,52 @@
+#weather {
+margin-left: -10px;
+margin-top: -20px;
+position: fixed;
+}
+
+
+#dog {
+	float: left;
+	margin-top: 220px;
+	margin-left: -10px;
+
+}
+
+#scrolly{
+	margin-top: 5px;
+	margin-left:40px;
+	height:680px;
+	width:3744px;
+	overflow-x:scroll;
+	overflow-y:hidden;
+	white-space:nowrap;
+}
+
+#dogvid {
+	position:absolute;
+	left: 562px;
+	top: 240px;
+}
+
+#nom {
+	position:absolute;
+	top: 206px;
+left: 1300px;}
+
+#nomvid {
+		position:absolute;
+
+	top: 236px;
+left: 1830px;}
+
+
+
+#shiba{
+	position:absolute;
+	top: 236px;
+left: 2560px;}
+
+#shibavid{
+	position:absolute;
+	top: 240px;
+left: 3060px;}

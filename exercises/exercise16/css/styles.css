@@ -1,0 +1,46 @@
+body {
+    padding: 20px;
+}
+.play-button {
+    height: 40px;
+    width: 65px;
+    background-color: rgba(122, 0, 140, 1.0);
+    border-radius: 5px;
+    position: relative;
+}
+.play-button:hover {
+    background-color: rgba(255, 156, 235, 0.9);
+}
+.play-button:after {
+    content:"";
+    display: block;
+    position: absolute;
+    top: 10.5px;
+    left: 24px;
+    margin: 0 auto;
+    border-style: solid;
+    border-width: 9.5px 0 9.5px 17px;
+    border-color: transparent transparent transparent rgba(255, 255, 255, 1);
+}
+.pause {
+    height: 40px;
+    width: 65px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 5px;
+    position: relative;
+}
+.pause:hover {
+    background-color: rgba(0, 173, 239, 0.9);
+}
+.pause:after {
+    content:"";
+    display: block;
+    position: absolute;
+    top: 12px;
+    left: 24px;
+    margin: 0 auto;
+    border-right:8px solid white;
+    border-left: 8px solid white;
+    border-bottom: 8px solid white;
+    border-top: 8px solid white;
+}

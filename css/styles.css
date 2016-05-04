@@ -1,0 +1,58 @@
+body { margin-left: 70px;
+margin-right: 70px;
+margin-top: 30px;
+font-family: Gill Sans;
+background-color: #73e0ef;
+color: #1d0edd;
+}
+
+
+h1 { 
+	font-family: Gill Sans;
+	color: #1d0edd;
+}
+
+h2 { 
+	font-family: Gill Sans;
+	color: #1d0edd;
+}
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: noe;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+/* unvisited link */
+a:link {
+    color: #1d0edd;
+}
+
+/* visited link */
+a:visited {
+    color: #1d0edd;
+}
+
+/* mouse over link */
+a:hover {
+    color: #1d0edd;
+}
+
+/* selected link */
+a:active {
+    color: #1d0edd;
+}
+
+    #projects {
+        float: left;
+
+    }

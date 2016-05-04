@@ -1,0 +1,71 @@
+body {
+	background: dddddd;}
+	
+	#head1 {
+	
+	margin: auto;
+	margin-top: 60px;
+	margin-left: -10px;
+
+}
+
+#scrolly{
+	margin-top: 5px;
+	margin-left:40px;
+	height:640px;
+	width:1180px;
+	overflow-x:scroll;
+	overflow-y:hidden;
+	white-space:nowrap;
+}
+
+
+#video1 {
+float: left;
+}
+
+#video2 {
+	float: left;
+	
+}
+
+#video3 {
+	float: left;}
+
+#video4 {
+	float: left;
+}
+
+#head2 {
+	margin-left: 40px;
+}
+
+#box {
+
+width: 350px;
+height:150px;
+position: absolute;
+top: 1280px;
+left: 60px;
+z-index: 1;
+}
+
+#box2 {
+
+width: 350px;
+height:150px;
+position: absolute;
+top: 1280px;
+left: 470px;
+z-index: 1;
+}
+
+#box3 {
+
+width: 350px;
+height:150px;
+position: absolute;
+top: 1280px;
+left: 880px;
+z-index: 1;
+}
