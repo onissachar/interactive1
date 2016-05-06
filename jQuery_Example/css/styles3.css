@@ -1,7 +1,7 @@
 body { 
 font-family: Gill Sans;
 font-size: 16.9px;
-height: 600px;
+height: 9000px;
 color: gray;
 text-align: justify;
 
@@ -16,7 +16,14 @@ opacity: 50%;
 }
 
 #fixed2 {
-	margin-top: 0px;
+margin:auto;
+width: 1400;
+height: 800px;
+position: absolute;
+top: 9000;
+background-color: white;
+
+
 margin-left: -5px;
 width: 1284px;
 position: absolute;

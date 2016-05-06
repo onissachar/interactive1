@@ -1,0 +1,11 @@
+#done {
+	margin-top: -10px;
+}
+
+#frog {
+	width: 200px;
+	height: 100px;
+	position: absolute;
+	top: 500px;
+	right: 30px;
+}
